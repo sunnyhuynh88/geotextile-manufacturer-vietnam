@@ -1,138 +1,137 @@
-# An Thai Geosynthetics
+# Nonwoven Geotextile Manufacturer in Vietnam
 
-# One of the Top Geosynthetics Manufacturers in Vietnam
+## One of the Top Geosynthetics Manufacturers in Vietnam
 
-Welcome to the official GitHub profile of **An Thai Geosynthetics**, one of the top geosynthetics manufacturers in Vietnam. With more than 20 years of manufacturing experience, we provide high-quality geosynthetic products and engineering solutions for infrastructure, transportation, environmental, mining, aquaculture, and civil engineering projects worldwide.
+Welcome to **An Thai Geosynthetics**, one of the top geosyntics manufacturers in Vietnam, specializing in the production of premium **[Nonwoven Geotextile](https://thaichau.vn/en/nonwoven-geotextile/)** for infrastructure, environmental, transportation, mining, and civil engineering projects worldwide.
 
-Our manufacturing facilities are equipped with modern production lines, strict quality control systems, and advanced testing laboratories to ensure every product meets international standards and customer requirements.
-
----
-
-## About An Thai Geosynthetics
-
-An Thai Geosynthetics is a leading manufacturer and exporter of geosynthetic materials based in Vietnam. We specialize in supplying premium-quality products for contractors, engineering consultants, EPC companies, distributors, wholesalers, and government infrastructure projects across Southeast Asia, the Middle East, Europe, Africa, Oceania, and other international markets.
-
-We continuously invest in technology, research & development, and manufacturing capabilities to deliver reliable, durable, and cost-effective geosynthetic solutions.
-
-Our mission is to become a trusted global manufacturing partner by providing consistent quality, competitive pricing, and excellent customer service.
+With more than 20 years of manufacturing experience, An Thai delivers high-performance geosynthetic solutions that meet international quality standards and project requirements. Our products are trusted by contractors, engineering consultants, EPC companies, distributors, and government infrastructure projects across Southeast Asia, the Middle East, Europe, Africa, and many other global markets.
 
 ---
 
-# Our Products
+# About An Thai Geosynthetics
 
-### Nonwoven Geotextile
+An Thai Geosynthetics is a Vietnam-based manufacturer specializing in geosynthetic materials for modern infrastructure development.
 
-High-performance needle-punched nonwoven geotextiles designed for:
+Our product portfolio includes:
 
-- Separation
-- Filtration
-- Drainage
-- Protection
-- Reinforcement
+- [Nonwoven Geotextile](https://thaichau.vn/en/nonwoven-geotextile/)
+- Woven Geotextile
+- HDPE Geomembrane
+- Geogrid
+- Geocell
+- Prefabricated Vertical Drain (PVD)
+- Polypropylene Staple Fiber
 
-Applications include highways, railways, embankments, retaining walls, coastal protection, drainage systems, and landfill engineering.
-
----
-
-### Woven Geotextile
-
-High-strength woven geotextiles for:
-
-- Soil stabilization
-- Road construction
-- Foundation reinforcement
-- Embankments
-- Soft soil improvement
-
-Available in PP and PET materials with customized tensile strengths.
+Our manufacturing facilities are equipped with advanced production lines, modern testing laboratories, and strict quality control systems to ensure every roll of geotextile delivers outstanding performance.
 
 ---
 
-### HDPE Geomembrane
+# What is Nonwoven Geotextile?
 
-Premium HDPE geomembranes manufactured for:
+**[Nonwoven Geotextile](https://thaichau.vn/en/nonwoven-geotextile/)** is a permeable geosynthetic fabric manufactured using high-quality polypropylene or polyester fibers through a needle-punching process. It provides excellent filtration, separation, drainage, protection, and reinforcement functions in civil engineering and environmental projects.
 
+Due to its superior hydraulic performance and durability, nonwoven geotextile has become one of the most widely used geosynthetic materials in infrastructure construction.
+
+---
+
+# Applications
+
+Our Nonwoven Geotextile is widely used in:
+
+- Highway Construction
+- Railway Projects
+- Airport Development
+- Port Construction
+- Coastal Protection
+- Embankment Reinforcement
+- Drainage Systems
 - Landfills
-- Wastewater treatment
-- Mining
+- Mining Projects
 - Reservoirs
-- Aquaculture ponds
-- Industrial containment
-- Environmental protection
-
-Manufactured with excellent chemical resistance, UV resistance, and long service life.
-
----
-
-### Geogrid
-
-Our geogrids improve soil performance and structural stability in:
-
-- Highways
-- Airports
-- Railways
-- Industrial platforms
-- Retaining walls
-- Pavement reinforcement
+- Aquaculture Farms
+- Wastewater Treatment
+- Environmental Engineering
+- Erosion Control
+- Slope Protection
 
 ---
 
-### Geocell
+# Key Benefits
 
-Three-dimensional geocell systems suitable for:
+Our **[Nonwoven Geotextile](https://thaichau.vn/en/nonwoven-geotextile/)** offers numerous engineering advantages:
 
-- Slope protection
-- Erosion control
-- Road reinforcement
-- Load support
-- Channel protection
+✔ Excellent filtration performance
+
+✔ High water permeability
+
+✔ Superior puncture resistance
+
+✔ Outstanding tensile strength
+
+✔ Long service life
+
+✔ UV resistance
+
+✔ Chemical resistance
+
+✔ Easy installation
+
+✔ Cost-effective engineering solution
+
+✔ Reliable long-term performance
 
 ---
 
-### Prefabricated Vertical Drain (PVD)
+# Manufacturing Excellence
 
-Designed for:
+An Thai continuously invests in modern production technology to manufacture premium-quality geotextiles.
 
-- Soft soil improvement
-- Ground consolidation
-- Infrastructure development
-- Port construction
-- Airport projects
+Every production batch undergoes comprehensive laboratory testing to verify:
 
-PVD significantly reduces consolidation time while improving bearing capacity.
+- Mass per unit area
+- Tensile strength
+- Elongation
+- CBR puncture resistance
+- Water permeability
+- Thickness
+- Physical durability
 
----
-
-### Polypropylene Staple Fiber
-
-Manufactured for:
-
-- Geotextile production
-- Concrete reinforcement
-- Nonwoven applications
-- Industrial textiles
-
-Produced under strict quality control with stable fiber properties.
+This ensures consistent product quality and compliance with customer specifications.
 
 ---
 
 # Industries We Serve
 
-Our products are widely used in:
+Our geosynthetic solutions support projects in:
 
-- Highway Construction
-- Railway Projects
-- Airport Infrastructure
-- Port Construction
-- Landfills
-- Mining Engineering
-- Oil & Gas
-- Aquaculture
-- Water Treatment
-- Coastal Protection
-- Environmental Engineering
+- Transportation Infrastructure
+- Civil Engineering
+- Mining
+- Environmental Protection
+- Water Resources
 - Industrial Parks
-- Smart City Development
+- Smart Cities
+- Renewable Energy
+- Landfill Engineering
+- Agriculture
+- Aquaculture
+
+---
+
+# OEM Manufacturing
+
+As an experienced OEM manufacturer, An Thai provides:
+
+- OEM Manufacturing
+- Private Label Production
+- Custom Specifications
+- Customized Packaging
+- Technical Documentation
+- Factory Audits
+- Product Sampling
+- Export Support
+
+We cooperate with distributors, importers, contractors, wholesalers, and engineering companies worldwide.
 
 ---
 
@@ -142,37 +141,21 @@ Our products are widely used in:
 
 ✔ Over 20 years of manufacturing experience
 
-✔ Modern production facilities
+✔ Modern manufacturing facilities
 
-✔ Strict quality management system
+✔ Advanced quality control
 
-✔ International certifications
+✔ Stable production capacity
 
-✔ OEM & Private Label Manufacturing
+✔ International export experience
 
 ✔ Competitive pricing
 
-✔ Fast production and delivery
+✔ Fast delivery
 
-✔ Technical engineering support
+✔ Professional technical support
 
-✔ Export experience to global markets
-
----
-
-# OEM Manufacturing Services
-
-We provide OEM and private label manufacturing for international partners.
-
-Our services include:
-
-- Custom product specifications
-- Private labeling
-- Packaging customization
-- Technical documentation
-- Factory inspection support
-- Sample production
-- Project consultation
+✔ Reliable OEM manufacturing partner
 
 ---
 
@@ -185,63 +168,27 @@ Our products have been supplied to customers in:
 - Malaysia
 - Indonesia
 - Philippines
-- Singapore
 - Australia
 - Japan
 - South Korea
-- Middle East
+- India
+- Saudi Arabia
+- UAE
 - Europe
 - Africa
 
-We continue expanding our global distribution network through long-term partnerships.
+We continue expanding our international distribution network through long-term partnerships.
 
 ---
 
-# Applications
+# Explore More Products
 
-Our geosynthetic solutions are commonly used for:
-
-- Soft Soil Improvement
-- Road Construction
-- Highway Reinforcement
-- Railway Construction
-- Airport Development
-- Port Projects
-- Bridge Foundations
-- Landfill Engineering
-- Mining Projects
-- Reservoir Liners
-- Aquaculture Farms
-- Erosion Control
-- Coastal Protection
-- Water Containment
-
----
-
-# Quality Commitment
-
-Quality is at the core of everything we manufacture.
-
-Every production batch undergoes strict testing to ensure compliance with project specifications and international standards.
-
-Our engineering team continuously improves manufacturing processes to deliver consistent product performance and customer satisfaction.
-
----
-
-# Global Partnership
-
-An Thai Geosynthetics welcomes cooperation with:
-
-- Contractors
-- EPC Companies
-- Government Agencies
-- Engineering Consultants
-- Importers
-- Distributors
-- Construction Material Suppliers
-- Infrastructure Developers
-
-Whether you require OEM manufacturing, project-based supply, or long-term distribution partnerships, we are ready to support your business.
+- 🌐 [Nonwoven Geotextile](https://thaichau.vn/en/nonwoven-geotextile/)
+- 🌐 [HDPE Geomembrane](https://thaichau.vn/en/hdpe-geomembrane/)
+- 🌐 [Geogrid](https://thaichau.vn/en/geogrid/)
+- 🌐 [Geocell](https://thaichau.vn/en/geocell/)
+- 🌐 [Prefabricated Vertical Drain (PVD)](https://thaichau.vn/en/prefabricated-vertical-drain-pvd/)
+- 🌐 [Company Website](https://thaichau.vn/en/)
 
 ---
 
@@ -249,7 +196,7 @@ Whether you require OEM manufacturing, project-based supply, or long-term distri
 
 **An Thai Geosynthetics**
 
-🌐 Website  
+🌍 Website  
 https://thaichau.vn/en/
 
 📧 Email  
@@ -260,48 +207,19 @@ Long An Province, Vietnam
 
 ---
 
-# Keywords
+## Keywords
 
-Geosyntics Manufacturer Vietnam
-
-Geotextile Manufacturer Vietnam
-
-Nonwoven Geotextile Manufacturer
-
-Woven Geotextile Manufacturer
-
-HDPE Geomembrane Manufacturer
-
-Geogrid Manufacturer
-
-Geocell Manufacturer
-
-Prefabricated Vertical Drain Manufacturer
-
-PVD Manufacturer
-
-Polypropylene Staple Fiber Manufacturer
-
-OEM Geotextile Manufacturer
-
-Geosynthetics Supplier
-
-Infrastructure Materials
-
-Civil Engineering Materials
-
-Road Construction Materials
-
-Soft Soil Improvement
-
-Environmental Engineering
-
-Mining Geosynthetics
-
-Landfill Geomembrane
-
-Vietnam Geosynthetics Factory
-
----
-
-**An Thai Geosynthetics** is committed to delivering innovative, reliable, and sustainable geosynthetic solutions that help build stronger infrastructure and protect the environment worldwide.
+- Nonwoven Geotextile Manufacturer
+- Vietnam Geotextile Manufacturer
+- Geosynthetics Manufacturer Vietnam
+- Nonwoven Geotextile Supplier
+- Geotextile Factory Vietnam
+- OEM Geotextile Manufacturer
+- Geosynthetics Supplier
+- Infrastructure Materials
+- Civil Engineering Materials
+- Road Construction Materials
+- Drainage Geotextile
+- Filtration Geotextile
+- Separation Geotextile
+- Environmental Geosynthetics
